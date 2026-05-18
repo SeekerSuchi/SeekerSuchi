@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- Header: name, bio, divider -->
+<img src="./assets/header.svg" width="100%" alt="Header"/>
 
-<!--
-**SeekerSuchi/SeekerSuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Skills -->
+<img src="./assets/skills.svg" width="100%" alt="Skills"/>
 
-Here are some ideas to get you started:
+<!-- CLI animation — after header and skills -->
+<img src="./assets/cli.svg" width="100%" alt="CLI"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Divider -->
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- Projects — each card is a clickable link to your repo -->
+<a href="https://github.com/SeekerSuchi/epass-event-management">
+  <img src="./assets/proj-epass.svg" width="100%" alt="E-Pass & Event Management System"/>
+</a>
+<a href="https://github.com/SeekerSuchi/data-visualization-tool">
+  <img src="./assets/proj-dataviz.svg" width="100%" alt="Interactive Data Visualization Tool"/>
+</a>
+<a href="https://github.com/SeekerSuchi/cli-typing-game">
+  <img src="./assets/proj-typing.svg" width="100%" alt="CLI Typing Game"/>
+</a>
+<a href="https://github.com/SeekerSuchi/backup-automator">
+  <img src="./assets/proj-backup.svg" width="100%" alt="Backup Automator"/>
+</a>
+
+<!-- Divider -->
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- Stats -->
+<img src="./assets/stats.svg" width="100%" alt="Stats"/>
+
+<!-- Divider -->
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- Reach Me — label + buttons all center aligned -->
+<div align="center">
+
+<img src="./assets/reach-label.svg" width="100%" alt=""/>
+
+<a href="https://linkedin.com/in/suchithn"><img src="./assets/btn-linkedin.svg" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:suchithn2005@gmail.com"><img src="./assets/btn-email.svg" height="32" alt="Email"/></a>&nbsp;&nbsp;<a href="https://leetcode.com/u/SeekerSuchi"><img src="./assets/btn-leetcode.svg" height="32" alt="LeetCode"/></a>
+
+</div>
