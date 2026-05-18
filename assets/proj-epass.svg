@@ -1,0 +1,31 @@
+<svg viewBox="0 0 720 148" width="720" height="148" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="148" fill="#0d1117"/>
+  <!-- Section label -->
+  <text x="24" y="18" font-family="ui-monospace,monospace" font-size="10.5" font-weight="500" fill="#8b949e" letter-spacing="1">PROJECTS</text>
+  <!-- Card -->
+  <rect x="24" y="26" width="672" height="114" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
+  <!-- Icon: QR (4 small squares) -->
+  <rect x="38" y="40" width="6" height="6" rx="1" fill="#8b949e"/>
+  <rect x="46" y="40" width="6" height="6" rx="1" fill="#8b949e"/>
+  <rect x="38" y="48" width="6" height="6" rx="1" fill="#8b949e"/>
+  <rect x="46" y="48" width="2" height="2" rx="0" fill="#8b949e"/>
+  <rect x="50" y="48" width="2" height="2" rx="0" fill="#8b949e"/>
+  <rect x="46" y="52" width="2" height="2" rx="0" fill="#8b949e"/>
+  <rect x="50" y="52" width="2" height="2" rx="0" fill="#8b949e"/>
+  <!-- Title -->
+  <text x="60" y="50" font-family="ui-monospace,monospace" font-size="13" font-weight="500" fill="#ffffff">E-Pass &amp; Event Management System</text>
+  <!-- Year -->
+  <text x="682" y="50" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" fill="#8b949e">2026</text>
+  <!-- Desc -->
+  <text x="38" y="74" font-family="ui-monospace,monospace" font-size="11.5" fill="#c9d1d9">Full-stack QR-based event platform — contactless check-in, real-time validation,</text>
+  <text x="38" y="90" font-family="ui-monospace,monospace" font-size="11.5" fill="#c9d1d9">and end-to-end event lifecycle management.</text>
+  <!-- Tags -->
+  <rect x="38" y="102" width="44" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="60" y="115" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">React</text>
+  <rect x="88" y="102" width="52" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="114" y="115" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">Node.js</text>
+  <rect x="146" y="102" width="76" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="184" y="115" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">PostgreSQL</text>
+  <rect x="228" y="102" width="44" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="250" y="115" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">Azure</text>
+</svg>
