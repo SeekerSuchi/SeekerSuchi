@@ -5,8 +5,11 @@
 <img src="./assets/skills.svg" width="100%" alt="Skills"/>
 
 <!-- CLI animation — after header and skills -->
-<img src="./assets/cli.svg" width="100%" alt="CLI"/>
+<div align="center">
+  
+<img src="./assets/cli.svg" width="80%" alt="CLI"/>
 
+</div>
 <!-- Divider -->
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
