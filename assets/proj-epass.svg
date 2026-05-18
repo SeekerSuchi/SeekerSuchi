@@ -1,9 +1,9 @@
-<svg viewBox="0 0 720 148" width="720" height="148" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="148" fill="#0d1117"/>
+<svg viewBox="0 0 720 138" width="720" height="138" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="138" fill="#0d1117"/>
   <!-- Section label -->
   <text x="24" y="18" font-family="ui-monospace,monospace" font-size="10.5" font-weight="500" fill="#8b949e" letter-spacing="1">PROJECTS</text>
   <!-- Card -->
-  <rect x="24" y="26" width="672" height="114" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
+  <rect x="24" y="26" width="672" height="105" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
   <!-- Icon: QR (4 small squares) -->
   <rect x="38" y="40" width="6" height="6" rx="1" fill="#8b949e"/>
   <rect x="46" y="40" width="6" height="6" rx="1" fill="#8b949e"/>

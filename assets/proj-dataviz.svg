@@ -1,10 +1,10 @@
-<svg viewBox="0 0 720 110" width="720" height="110" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="110" fill="#0d1117"/>
-  <rect x="24" y="8" width="672" height="96" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
+<svg viewBox="0 0 720 120" width="720" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="140" fill="#0d1117"/>
+  <rect x="24" y="8" width="672" height="105" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
   <!-- Icon: bar chart (3 bars) -->
-  <rect x="38" y="48" width="4" height="8" rx="1" fill="#8b949e"/>
-  <rect x="44" y="42" width="4" height="14" rx="1" fill="#8b949e"/>
-  <rect x="50" y="36" width="4" height="20" rx="1" fill="#8b949e"/>
+  <rect x="38" y="48" width="4" height="5" rx="1" fill="#8b949e"/>
+  <rect x="44" y="42" width="4" height="11" rx="1" fill="#8b949e"/>
+  <rect x="50" y="36" width="4" height="17" rx="1" fill="#8b949e"/>
   <!-- Title -->
   <text x="62" y="50" font-family="ui-monospace,monospace" font-size="13" font-weight="500" fill="#ffffff">Interactive Data Visualization Tool</text>
   <text x="682" y="50" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" fill="#8b949e">2025</text>

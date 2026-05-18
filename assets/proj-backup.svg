@@ -1,6 +1,6 @@
-<svg viewBox="0 0 720 108" width="720" height="108" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="108" fill="#0d1117"/>
-  <rect x="24" y="8" width="672" height="92" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
+<svg viewBox="0 0 720 120" width="720" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="120" fill="#0d1117"/>
+  <rect x="24" y="8" width="672" height="105" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
   <!-- Icon: database with arrow -->
   <ellipse cx="46" cy="38" rx="8" ry="3" fill="none" stroke="#8b949e" stroke-width="1.5"/>
   <path d="M38 38v8c0 1.657 3.582 3 8 3" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/>
