@@ -1,22 +1,20 @@
-<svg viewBox="0 0 720 120" width="720" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="120" fill="#0d1117"/>
-  <rect x="24" y="8" width="672" height="105" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
-  <!-- Terminal window icon: rounded rect outline -->
-  <rect x="36" y="36" width="22" height="18" rx="2" fill="none" stroke="#8b949e" stroke-width="1.5"/>
-  <!-- > chevron inside -->
-  <polyline points="41,42 45,45 41,48" fill="none" stroke="#8b949e" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- _ underscore inside -->
-  <line x1="47" y1="49" x2="52" y2="49" stroke="#8b949e" stroke-width="1.4" stroke-linecap="round"/>
+<svg viewBox="0 0 720 96" width="720" height="96" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="96" fill="#0d1117"/>
+  <rect x="24" y="6" width="672" height="84" rx="8" fill="#161b22" stroke="rgba(48,54,61,0.8)" stroke-width="0.5"/>
+  <!-- Terminal window icon — smaller -->
+  <rect x="35" y="28" width="18" height="14" rx="2" fill="none" stroke="#8b949e" stroke-width="1.3"/>
+  <polyline points="38,33 41,36 38,39" fill="none" stroke="#8b949e" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="43" y1="39" x2="48" y2="39" stroke="#8b949e" stroke-width="1.2" stroke-linecap="round"/>
   <!-- Title -->
-  <text x="66" y="50" font-family="ui-monospace,monospace" font-size="13" font-weight="500" fill="#ffffff">CLI Typing Game</text>
-  <text x="682" y="50" text-anchor="end" font-family="ui-monospace,monospace" font-size="11" fill="#8b949e">2025</text>
+  <text x="60" y="38" font-family="ui-monospace,monospace" font-size="12" font-weight="500" fill="#ffffff">CLI Typing Game</text>
+  <text x="682" y="38" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#8b949e">2025</text>
   <!-- Desc -->
-  <text x="38" y="72" font-family="ui-monospace,monospace" font-size="11.5" fill="#c9d1d9">Terminal typing game with difficulty &amp; practice modes using ANSI escape codes.</text>
+  <text x="36" y="55" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9">Terminal typing game with difficulty &amp; practice modes using ANSI escape codes.</text>
   <!-- Tags -->
-  <rect x="38" y="84" width="38" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-  <text x="57" y="97" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">Bash</text>
-  <rect x="82" y="84" width="38" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-  <text x="101" y="97" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">ANSI</text>
-  <rect x="126" y="84" width="44" height="18" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
-  <text x="148" y="97" text-anchor="middle" font-family="ui-monospace,monospace" font-size="10.5" fill="#8b949e">Linux</text>
+  <rect x="36"  y="67" width="34" height="16" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="53"  y="79" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9.5" fill="#8b949e">Bash</text>
+  <rect x="76"  y="67" width="34" height="16" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="93"  y="79" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9.5" fill="#8b949e">ANSI</text>
+  <rect x="116" y="67" width="40" height="16" rx="4" fill="#0d1117" stroke="#30363d" stroke-width="0.5"/>
+  <text x="136" y="79" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9.5" fill="#8b949e">Linux</text>
 </svg>
