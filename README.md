@@ -13,6 +13,8 @@
 <!-- Divider -->
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+<img src="./assets/proj-label.svg" width="100%" alt=""/>
+
 <!-- Projects — each card is a clickable link to your repo -->
 <a href="https://github.com/SeekerSuchi/epass-event-management">
   <img src="./assets/proj-epass.svg" width="100%" alt="E-Pass & Event Management System"/>
