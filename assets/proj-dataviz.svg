@@ -7,7 +7,7 @@
   <rect x="46" y="28" width="3" height="13" rx="1" fill="#8b949e"/>
   <!-- Title -->
   <text x="58" y="36" font-family="ui-monospace,monospace" font-size="12" font-weight="500" fill="#ffffff">Interactive Data Visualization Tool</text>
-  <text x="650" y="36" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#8b949e">2025</text>
+  <text x="682" y="36" text-anchor="end" font-family="ui-monospace,monospace" font-size="10" fill="#8b949e">2025</text>
   <!-- Desc: start at x=36, break at natural word boundary -->
   <text x="36" y="52" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9">Built an interactive visualization dashboard supporting multiple chart types with</text>
   <text x="36" y="66" font-family="ui-monospace,monospace" font-size="10.5" fill="#c9d1d9">real-time filtering, sorting, and statistical summaries.</text>
